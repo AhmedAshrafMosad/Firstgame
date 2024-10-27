@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670006065 source:c:\users\mmm\documents\my games\first game\main.cpp
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<stdlib.h>
+
+1670017152 source:e:\projects\first game\main.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
